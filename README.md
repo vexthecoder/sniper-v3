@@ -11,7 +11,7 @@ all information on the sniper will be fully added on first release. but for now,
 ## Discord Token Extractor Script
 
 ### How to Use
-1. Navigate to [Discord Web](https://discord.com)
+1. Navigate to [Discord Web](https://discord.com/app)
 2. Login to your account
 3. Open Browser Developer Tools (F12)
 4. Click on the Mobile Device Icon to enable mobile mode
