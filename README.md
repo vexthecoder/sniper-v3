@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This Repo is **NOT** finished.<br>
+> The source code is still closed source until **Beta 5** is released, so the build script will not work.
+
 <div align="center">
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px;">
