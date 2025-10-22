@@ -75,8 +75,8 @@ echo    BUILD SUCCESSFUL!
 echo ================================
 echo.
 echo Your executable has been built in the 'dist' folder:
-echo   - dist\Sol Sniper.exe
+echo   - dist\Sol Sniper V3.exe
 echo.
-echo You can now distribute this standalone executable.
+echo You can now distribute this standalone executable or run it directly.
 echo.
 pause
